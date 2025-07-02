@@ -1,0 +1,3182 @@
+[
+  {
+    "id": 1,
+    "fecha": "29/6/2025, 12:02:30",
+    "maxBeneficio": 170100,
+    "buySolution": [
+      {
+        "material": "algodon",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "algodon",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "algodon",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "algodon",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "algodon",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "algodon",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "algodon",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "algodon",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "algodon",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "algodon",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "algodon",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "algodon",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "algodon",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fecha": "29/6/2025, 12:21:44",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "higo",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "higo",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "higo",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "higo",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "higo",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fecha": "29/6/2025, 01:00:09",
+    "maxBeneficio": 73300,
+    "buySolution": [
+      {
+        "material": "nuez",
+        "month": "1.0",
+        "value": "700.0"
+      },
+      {
+        "material": "nuez",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "nuez",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "nuez",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "nuez",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "nuez",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "nuez",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "nuez",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "nuez",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "nuez",
+        "month": "4.0",
+        "value": "100.0"
+      },
+      {
+        "material": "nuez",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "nuez",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "nuez",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "nuez",
+        "period": "1.0",
+        "value": "1000.0"
+      },
+      {
+        "material": "nuez",
+        "period": "2.0",
+        "value": "800.0"
+      },
+      {
+        "material": "nuez",
+        "period": "3.0",
+        "value": "600.0"
+      },
+      {
+        "material": "nuez",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "nuez",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "nuez",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fecha": "1/7/2025, 01:26:42",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "aceite de oliva",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "aceite de oliva",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "aceite de oliva",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "aceite de oliva",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "fecha": "1/7/2025, 01:46:29",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "arveja",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "arveja",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "arveja",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "arveja",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "arveja",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "fecha": "1/7/2025, 05:12:54",
+    "maxBeneficio": 126600,
+    "buySolution": [
+      {
+        "material": "kiwi",
+        "month": "1.0",
+        "value": "700.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "4.0",
+        "value": "100.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "kiwi",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "kiwi",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "kiwi",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "1.0",
+        "value": "1000.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "2.0",
+        "value": "1000.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "3.0",
+        "value": "1000.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "4.0",
+        "value": "900.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "5.0",
+        "value": "700.0"
+      },
+      {
+        "material": "kiwi",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "fecha": "1/7/2025, 05:15:43",
+    "maxBeneficio": 145000,
+    "buySolution": [
+      {
+        "material": "pera",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "pera",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "pera",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "pera",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "pera",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "pera",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "pera",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "pera",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "pera",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "pera",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "pera",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "pera",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "pera",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "fecha": "1/7/2025, 05:16:44",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "a",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "a",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "a",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "a",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "a",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "fecha": "1/7/2025, 05:50:37",
+    "maxBeneficio": 128300,
+    "buySolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "f",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "f",
+        "period": "1.0",
+        "value": "800.0"
+      },
+      {
+        "material": "f",
+        "period": "2.0",
+        "value": "600.0"
+      },
+      {
+        "material": "f",
+        "period": "3.0",
+        "value": "400.0"
+      },
+      {
+        "material": "f",
+        "period": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "fecha": "1/7/2025, 05:57:16",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "o",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "o",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "o",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "o",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "o",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "fecha": "1/7/2025, 06:10:00",
+    "maxBeneficio": 134200,
+    "buySolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "d",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "d",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "d",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "fecha": "1/7/2025, 06:14:36",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "j",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "j",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "j",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "fecha": "1/7/2025, 06:24:08",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "ja",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "ja",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "ja",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "ja",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "ja",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "fecha": "1/7/2025, 06:27:24",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "h",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "fecha": "1/7/2025, 06:31:05",
+    "maxBeneficio": 169200,
+    "buySolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "900.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "f",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "f",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "f",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "f",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "5.0",
+        "value": "700.0"
+      },
+      {
+        "material": "f",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "fecha": "1/7/2025, 06:46:10",
+    "maxBeneficio": 171100,
+    "buySolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "f",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "f",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "f",
+        "period": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "fecha": "1/7/2025, 06:47:48",
+    "maxBeneficio": 168000,
+    "buySolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "h",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "h",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "fecha": "1/7/2025, 06:52:19",
+    "maxBeneficio": 171300,
+    "buySolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "d",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "d",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "d",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "fecha": "1/7/2025, 07:03:21",
+    "maxBeneficio": 172200,
+    "buySolution": [
+      {
+        "material": "g",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "g",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "g",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "g",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "g",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "g",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "g",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "fecha": "1/7/2025, 07:08:33",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "j",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "j",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "j",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "j",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "j",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "fecha": "1/7/2025, 07:19:53",
+    "maxBeneficio": -12000,
+    "buySolution": [
+      {
+        "material": "k",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "k",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "k",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "k",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "1.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "2.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "3.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "4.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "5.0",
+        "value": "500.0"
+      },
+      {
+        "material": "k",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "fecha": "1/7/2025, 07:23:20",
+    "maxBeneficio": 171100,
+    "buySolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "h",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "h",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "fecha": "1/7/2025, 07:30:41",
+    "maxBeneficio": 170500,
+    "buySolution": [
+      {
+        "material": "l",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "l",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "l",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "l",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "5.0",
+        "value": "900.0"
+      },
+      {
+        "material": "l",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "l",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "l",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "l",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "l",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "l",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "l",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "l",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "l",
+        "period": "5.0",
+        "value": "700.0"
+      },
+      {
+        "material": "l",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "fecha": "1/7/2025, 07:38:41",
+    "maxBeneficio": 172000,
+    "buySolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "f",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "f",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "f",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "f",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "f",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "f",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "f",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "fecha": "1/7/2025, 07:41:07",
+    "maxBeneficio": 169000,
+    "buySolution": [
+      {
+        "material": "5",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "5",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "5",
+        "month": "3.0",
+        "value": "300.0"
+      },
+      {
+        "material": "5",
+        "month": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "5",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "5",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "5",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "5",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "5",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "5",
+        "period": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "5",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "5",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "5",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "fecha": "1/7/2025, 07:44:03",
+    "maxBeneficio": 171000,
+    "buySolution": [
+      {
+        "material": "s",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "s",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "s",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "s",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "s",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "s",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "s",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "s",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "s",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "s",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "s",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "s",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "s",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "fecha": "1/7/2025, 07:56:53",
+    "maxBeneficio": 169900,
+    "buySolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "900.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "0.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "h",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "h",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "h",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "h",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "h",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "h",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "h",
+        "period": "5.0",
+        "value": "700.0"
+      },
+      {
+        "material": "h",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "fecha": "1/7/2025, 08:07:29",
+    "maxBeneficio": 168700,
+    "buySolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "d",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "d",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "d",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "d",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "d",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "d",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "d",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "fecha": "1/7/2025, 08:11:07",
+    "maxBeneficio": 170900,
+    "buySolution": [
+      {
+        "material": "p",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "p",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "p",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "p",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "p",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "p",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "p",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "p",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "p",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "p",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "p",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "p",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "p",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "fecha": "1/7/2025, 08:24:05",
+    "maxBeneficio": 171300,
+    "buySolution": [
+      {
+        "material": "g",
+        "month": "1.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "month": "2.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "month": "3.0",
+        "value": "100.0"
+      },
+      {
+        "material": "g",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "6.0",
+        "value": "700.0"
+      }
+    ],
+    "useSolution": [
+      {
+        "material": "g",
+        "month": "1.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "2.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "3.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "4.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "5.0",
+        "value": "200.0"
+      },
+      {
+        "material": "g",
+        "month": "6.0",
+        "value": "200.0"
+      }
+    ],
+    "storeSolution": [
+      {
+        "material": "g",
+        "period": "0.0",
+        "value": "500.0"
+      },
+      {
+        "material": "g",
+        "period": "1.0",
+        "value": "300.0"
+      },
+      {
+        "material": "g",
+        "period": "2.0",
+        "value": "100.0"
+      },
+      {
+        "material": "g",
+        "period": "3.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "4.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "5.0",
+        "value": "0.0"
+      },
+      {
+        "material": "g",
+        "period": "6.0",
+        "value": "500.0"
+      }
+    ]
+  }
+]
